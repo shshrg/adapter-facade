@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class TestTask2 {
+class TestTask3 {
 
     private CompanyInfoFacade facade;
 
